@@ -1,6 +1,6 @@
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [meeting_smile's blog:](https://meeting77smile.github.io/)
+- [meeting_smile's blog](https://meeting77smile.github.io/)
 - [亿级流量点赞系统](https://meeting77smile.github.io/post/likesystem/)
 - [星云好物——基于微服务架构的电商平台](https://meeting77smile.github.io/post/nebulamall/)
 - [电商秒杀项目](https://meeting77smile.github.io/post/secondkill/)
