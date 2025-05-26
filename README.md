@@ -1,11 +1,11 @@
 🏠 &nbsp;**My Blog：** [meeting_smile's blog](https://meeting77smile.github.io/)<br>
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [亿级流量点赞系统](http://localhost:1313/post/likesystem/)
-- [星云好物——基于微服务架构的电商平台](http://localhost:1313/post/nebulamall/)
-- [电商秒杀项目](http://localhost:1313/post/secondkill/)
-- [积语——云伴学](http://localhost:1313/post/jiyuguidebook/)
-- [Android笔记](http://localhost:1313/post/android_notes/)
+- [亿级流量点赞系统](https://meeting77smile.github.io/post/likesystem/)
+- [星云好物——基于微服务架构的电商平台](https://meeting77smile.github.io/post/nebulamall/)
+- [电商秒杀项目](https://meeting77smile.github.io/post/secondkill/)
+- [积语——云伴学](https://meeting77smile.github.io/post/jiyuguidebook/)
+- [Android笔记](https://meeting77smile.github.io/post/android_notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
