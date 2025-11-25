@@ -14,5 +14,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meeting77smile/meeting77smile/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeting77smile&theme=ambient_gradient) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeting77smile&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeting77smile&theme=ambient_gradient)
