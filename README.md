@@ -15,3 +15,5 @@
 </picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeting77smile&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeting77smile)
+![trophy](https://github-profile-trophy.vercel.app/?username=meeting77smile)
