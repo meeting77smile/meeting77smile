@@ -18,4 +18,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meeting77smile/meeting77smile/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meeting77smile/meeting77smile/output/github-contribution-grid-snake.svg">
 </picture>
-![trophy](https://github-profile-trophy.vercel.app/?username=meeting77smile)
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=meeting77smile" /> </div>
