@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%EF%BC%81This+Is+meeting_smile!;Audentes+Fortuna+Iuvat%EF%BC%81%EF%BC%81%EF%BC%81)](https://git.io/typing-svg)<br>
 🏠 &nbsp;**My Blog：** [meeting_smile's blog](https://meeting77smile.github.io/)<br>
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -8,12 +9,13 @@
 - [Set和Map的遍历](http://localhost:1313/post/set%E5%92%8Cmap%E7%9A%84%E9%81%8D%E5%8E%86/)
 <!-- BLOG-POST-LIST:END -->
 
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=meeting77smile&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meeting77smile&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=meeting77smile" /> </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meeting77smile/meeting77smile/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meeting77smile/meeting77smile/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meeting77smile/meeting77smile/output/github-contribution-grid-snake.svg">
 </picture>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeting77smile&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meeting77smile)
 ![trophy](https://github-profile-trophy.vercel.app/?username=meeting77smile)
